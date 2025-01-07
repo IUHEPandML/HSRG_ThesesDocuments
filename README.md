@@ -16,7 +16,7 @@ Please add the documents of your thesis in this repository. The documents should
 4. **thesis** folder should include the final version of your thesis (pdf), and all the plots that you have in your thesis, in png or in pdf. (If you have both English and Turkish labels, add both). For different studies, include subfolders as above to structure plots. 
  
   
-5. **papers** folder should include both(word/latex) and pdf version of the paper, as well as all the plots. Structure with subfolders if you have more then one paper.
+5. **papers** folder should include both(word/latex) and pdf version of the paper, as well as all the plots. Structure with subfolders if you have more than one paper related to your thesis. If you have different structure of codes from your thesis, please add them too.
     - YearMonth_paper1
     - YearMonth_paper2
    
